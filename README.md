@@ -8,6 +8,15 @@
 
 [HTML e CSS Simplificados: Guia Mágico para Iniciantes](https://web.dio.me/articles/html-e-css-simplificados-guia-essencial-para-iniciantes?back=%2Farticles&page=1&order=oldest)
 
+# Prompts utilizados 
+
+- Crie 10 headlines para nomes de artigos sobre o assunto HTML e CSS para iniciantes
+- Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo:
+  {regras}
+   no máximo 5 linhas por blocos de explicação
+   utilize os subtítulos que te passei 
+   me explique de maneira informal, como se eu fosse uma criança de 10 anos 
+
 <h1>Redes Sociais:</h1>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theushenriix) 
